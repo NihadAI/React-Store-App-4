@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="header-top__favorite"
+>
+  <img
+    alt="Favorite star"
+    className="header-top__favorite__img"
+    src="/img/star-white.svg"
+  />
+  <p
+    className="header-top__favorite__count"
+  >
+    (
+    5
+    )
+  </p>
+</div>
+`;

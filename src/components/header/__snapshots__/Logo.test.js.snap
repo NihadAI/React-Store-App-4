@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="header-main__navbar-logo"
+>
+  <img
+    alt="gamepad"
+    src="/img/gamepad-solid.svg"
+  />
+  <p
+    className="header-main__navbar-logo__name"
+  >
+    <span>
+      G
+    </span>
+    Store
+  </p>
+</div>
+`;
